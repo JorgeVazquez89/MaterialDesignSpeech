@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesignSpeech</string>
+    <string name="orderButtonText">Order</string>
+    <string name="locationButtonText">Location</string>
+    <string name="notificationsButtonText">Notifications</string>
+    <string name="settingsButtonText">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

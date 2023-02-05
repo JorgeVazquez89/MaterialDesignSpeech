@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Michel Extreme BullHouse Burger</item>
+        <item>Gegio Texas BBQ Pizza</item>
+        <item>Jaszi Supreme Chicken Curry Rice</item>
+        <item>Kai MasterPiece Sushi</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>SI NO TE GUSTA, DEFINITIVAMENTE ERES MAS DE POLLO. Hamburguesa 100% vacuno de 300g, bañada en salsa de frambuesas, queso de
+            cabra, tomate, lechuga y pan de masa madre recién horneado.
+
+        </item>
+        <item>Pizza de masa gruesa y esponjosa con base Texas BBQ bourbon, queso cheddar, mozarella,
+            pollo marinado y beacon.
+        </item>
+        <item>Arroz largo basmati con salsa curry realizada mediante secreto familiar Singh, pollo a
+            la plancha y verduras.
+        </item>
+        <item>Sushi tradicional de diferentes pescados y california roll con arroz realizado
+            mediante receta secreta de un prestigioso Itamae.
+        </item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>20 eur.</item>
+        <item>12 eur.</item>
+        <item>15 eur.</item>
+        <item>10 piezas. 18 eur.</item>
+    </string-array>
+</resources>
